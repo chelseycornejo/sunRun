@@ -14,6 +14,7 @@ import app from '../firebase.js';
 import { ref, getDatabase, push } from 'firebase/database';
 
 const SunInfo = () => {
+
     // initializing state to keep track of the data we retrieve on the axios call on the sunrise-sunset api
     const [sunData, setSunData] = useState();
 

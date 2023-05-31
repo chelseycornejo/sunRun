@@ -5,12 +5,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey:"AIzaSyBF2spULKMZsmkSGxNfGRectm4aav-R3N8",
-    authDomain: "sunrun-e6a97.firebaseapp.com",
-    projectId: "sunrun-e6a97",
-    storageBucket: "sunrun-e6a97.appspot.com",
-    messagingSenderId: "880016340492",
-    appId: "1:880016340492:web:4eee41662d5a35575d6029"
+    apiKey: "AIzaSyCsfuG2TcADtzdptK897t0LqeJ2V3TpmY0",
+    authDomain: "sun-run-b6ccd.firebaseapp.com",
+    databaseURL: "https://sun-run-b6ccd-default-rtdb.firebaseio.com",
+    projectId: "sun-run-b6ccd",
+    storageBucket: "sun-run-b6ccd.appspot.com",
+    messagingSenderId: "89293185518",
+    appId: "1:89293185518:web:d9ab53981e97e1b9586eff"
 };
 
 // Initialize Firebase
